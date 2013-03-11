@@ -1,0 +1,8 @@
+# random data to be appended to URL-path (hard to discover)
+LOGENTRIES_URL_SECRET = "super-secret"
+
+# API key
+HIPCHAT_API_KEY = "0123456789abcdef0123456789abcd"
+
+# Room id (see here: https://ACCOUNT.hipchat.com/rooms/ids)
+HIPCHAT_ROOM_ID = "123456"

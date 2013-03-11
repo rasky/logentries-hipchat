@@ -4,8 +4,6 @@ import json
 import urllib, urllib2
 
 app = Flask(__name__)
-app.debug = True
-app.config["DEBUG"] = True
 ROOT_DIR = os.path.abspath(os.path.dirname(__file__))
 
 try:
